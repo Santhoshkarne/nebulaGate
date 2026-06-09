@@ -1,0 +1,14 @@
+[
+    {
+        "id": "server1",
+        "url": "http://localhost:8001"
+    },
+    {
+        "id": "server2",
+        "url": "http://localhost:8002"
+    },
+    {
+        "id": "server3",
+        "url": "http://localhost:8003"
+    }
+]
