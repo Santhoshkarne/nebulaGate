@@ -1,14 +1,14 @@
 [
     {
-        "id": "server1",
+        "id": "auth",
         "url": "http://localhost:8001"
     },
     {
-        "id": "server2",
+        "id": "product",
         "url": "http://localhost:8002"
     },
     {
-        "id": "server3",
+        "id": "payment",
         "url": "http://localhost:8003"
     }
 ]
