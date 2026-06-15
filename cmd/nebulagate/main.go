@@ -6,6 +6,7 @@ import (
 
 	"github.com/SaisrikarVollala/nebulagate/internal/balancer"
 	"github.com/SaisrikarVollala/nebulagate/internal/config"
+	"github.com/SaisrikarVollala/nebulagate/internal/middleware"
 )
 
 func main() {
